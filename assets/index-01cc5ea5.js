@@ -63,4 +63,4 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 });
 <\/script>
-`}))),P1=()=>h.createElement(_v,null,h.createElement(cp,null,h.createElement(Tv,{component:N1,exact:!0,path:"/"})));hh.render(h.createElement(P1,null),document.getElementById("app"));
+`}))),P1=()=>h.createElement(_v,{basename:"/Drew_Codeify_Site"},h.createElement(cp,null,h.createElement(Tv,{component:N1,exact:!0,path:"/"})));hh.render(h.createElement(P1,null),document.getElementById("app"));
